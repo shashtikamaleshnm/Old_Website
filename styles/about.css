@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main_body {
+    background-color: black;
+    color: white;
+}
+
+#navbar_brand {
+    color: #28FF24;
+}
+
+#navbar_brand:hover {
+    color: #FF0000;
+    transition: 0.4s;
+}
+
+#current_tab {
+    color: #FF0000;
+    margin-left: 20px;
+}
+
+#tab1 {
+    color: #28FF24;
+    margin-left: 20px;
+}
+
+#tab1:hover {
+    color: #FF0000;
+    transition: 0.4s;
+}
+
+#tab2 {
+    color: #28FF24;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#tab2:hover {
+    color: #FF0000;
+    transition: 0.4s;
+}
+
+#about_heading {
+    color: white;
+}
+
+#main_content {
+    margin-top: 50px;
+    color: #007bff;
+}
+
+#main_p {
+    font-size: 20px;
+}
+
+#prog_langs_known {
+    color: #28FF24;
+}
+
+#techs_known {
+    color: #28FF24;
+}
+
+#frameworks_known {
+    color: #28FF24;
+}
+
+#designing_langs_known {
+    color: #28FF24;
+}
+
+
+#card1 {
+    padding: 10px;
+}
+
+#card2 {
+    padding: 10px;
+}
+
+#card3 {
+    padding: 10px;
+}
+
+#index_footer {
+    margin-top: 195px;
+    padding: 20px;
+    background-color: #343a40;
+    color: red;
+    font-size: 20px;
+}
+
+#social_icon1:hover {
+    color: #28FF24;
+    transition: 0.2s;
+}
+
+#social_icon2:hover {
+    color: #28FF24;
+    transition: 0.2s;
+}
+
+#social_icon3:hover {
+    color: #28FF24;
+    transition: 0.2s;
+}
